@@ -1,0 +1,1 @@
+cp index_template.html index.html
