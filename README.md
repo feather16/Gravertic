@@ -2,5 +2,9 @@
 アクションゲーム(製作途中)<br>
 UnityとC#を用いて製作しています。
 
+矢印に触れると重力の方向が変わります。
+
+<img src="image/Graveric_preview.png" width=400>
+
 # 遊ぶ
 [こちら](https://feather16.github.io/Gravertic/)
